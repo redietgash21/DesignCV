@@ -1,0 +1,37 @@
+
+.loginAll{
+    display: flex;
+    flex-wrap: wrap;
+    /* width: 200%; */
+    height: 100vh;
+    align-items: center;
+    /* background-color: red; */
+    
+}
+.loginAll .loginMain i{
+font-size: 40px;
+margin-left: -60%;
+}
+
+.loginAll .loginMain{
+    background-color: #E7FBFF;
+   margin-left: 25vw;
+   
+    width: 70%;
+    height: 80vh;
+    
+}
+.loginAll .loginMain h3{
+    font-size: 60px;
+}
+
+.loginAll .loginMain input{
+ width: 50%;
+ font-size: 25px;
+ margin: 2% 0 2%;
+}
+.loginAll .loginMain button{
+    margin-left: 40%;
+    background-color: #3A5AAC;
+    font-size: large;
+}

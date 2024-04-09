@@ -1,0 +1,36 @@
+
+
+
+
+
+.headerStyle1{
+width: 100%;
+display: flex;
+}
+
+.hr{
+    background-color: black;
+    width: 900px;
+    margin-left: -120px;
+    margin-right: -120px;
+}
+.styleStraight{
+font-size: 32px;
+}
+.imgCircle{
+    border-radius: 50%;
+    width: 55%;
+    height: 35vh;
+    margin-right: 15%;
+    margin-left: 5%;
+    float: left;
+}
+.imgCircle img{
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+.floatRight{
+    float: right;
+    margin-top: 25px;
+}

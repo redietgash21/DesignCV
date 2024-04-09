@@ -1,0 +1,46 @@
+
+
+
+
+
+
+
+
+
+.signupAll{
+    display: flex;
+    flex-wrap: wrap;
+    /* width: 200%; */
+    height: 100vh;
+    align-items: center;
+    /* background-color: red; */
+    
+}
+
+.signupAll .signupMain i{
+    font-size: 40px;
+    margin-left: -60%;
+    }
+.signupAll .signupMain{
+    background-color: #E7FBFF;
+    margin-left: 25vw;
+    
+     width: 70%;
+     height: 80vh;
+    
+}
+.signupAll .signupMain h3{
+    font-size: 60px;
+}
+
+.signupAll .signupMain input{
+ width: 50%;
+ font-size: 25px;
+ margin: 2% 0 2%;
+}
+.signupAll .signupMain button{
+    display: grid;
+    margin-left: 66%;
+    background-color: #3A5AAC;
+    font-size: large;
+}

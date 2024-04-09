@@ -12,7 +12,9 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
+button{
+  background-color: #3A5AAC;
+}
 a {
   font-weight: 500;
   color: #646cff;

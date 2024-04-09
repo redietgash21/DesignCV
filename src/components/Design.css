@@ -1,0 +1,34 @@
+.design{
+    background-color: #E7FBFF;
+    margin: 2px;
+   position: absolute;
+   left: 0;
+   right: 0;
+   top: 730px;
+   height: 110vh;
+   width: 98%;
+
+}
+.headerDes{
+    width: 60%;
+    font-size: 34px;
+    font-weight: 700;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #E7FBFF;
+    border-style: outset;
+    
+    margin: auto;
+    margin-top: 10px;
+}
+.stylesDiv{
+    width: 20%;
+    background-color: #E7FBFF;
+    border-style: outset;
+    height: 40vh;
+    margin-top: 50px;
+    margin-left: 15%;
+}
+.row{
+    display: flex;
+    gap: 15%;
+}

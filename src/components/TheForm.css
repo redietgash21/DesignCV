@@ -1,0 +1,81 @@
+
+
+.form {
+position: absolute;
+top: 0;
+left: 0;
+padding: 12px;
+background-color: #E7FBFF;
+width: 98%;
+}
+
+
+hr{
+    background-color: #71FFF6;
+    width: 95%;
+    height: 5px;
+}
+
+.formBtn{
+    background-color: #3A5AAC;
+    float: left;
+    margin-left: 5%;
+    margin-bottom: 1%;
+}
+.firstLine{
+    display: flex;
+}
+.img{
+    border-style: outset;
+    border-radius: 50%;
+    width: 10%;
+    height: 20vh;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+.img img{
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+
+.secondLine{
+    display: inline-flex;
+    gap: 15%;
+
+}
+
+.colLeft{
+    position: absolute;
+    float: left;
+    left: 4%;
+
+}
+.colCenter{
+    float: none;
+    width: 100%;
+    margin-left: 5% ;
+}
+.colRight{
+   
+    float: right;
+    width: 45%;
+    margin-left: 35% ;
+}
+.downloadBtn{
+    background-color: #3A5AAC;
+    float: right;
+    margin: 3% 3% 3% 0;
+}
+
+.sty{
+    margin-top: 2000px;
+}
+
+.sty1btn:hover{
+    opacity: 1;
+    pointer-events: auto;
+}
+.flex{
+    display: flex;
+}
